@@ -1,0 +1,24 @@
+.logo {
+  border-radius: 50%;
+}
+
+.pt-10 {
+  padding-top: 10rem;
+}
+
+.pb-10 {
+  padding-bottom: 8rem;
+}
+
+.maple-back {
+  background-color: rgb(167, 77, 18);
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.card-img {
+  min-height: 50vh;
+  object-fit: cover;
+}
